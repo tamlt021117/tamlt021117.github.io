@@ -1,0 +1,75 @@
+.contact-info{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0;
+    min-height: 800px;
+}
+
+.contact-info>div{
+    float: left;
+}
+
+.address{
+    width: 60%;
+}
+
+.map{
+    width: 40%;
+    margin-top: 40px;
+}
+
+.map iframe{
+    height: 120px;
+    margin-top: 25px;
+}
+
+
+.banner-contact{
+    width: 100%;
+}
+
+.contact-title{
+    Position:absolute;
+    text-align: center;
+    margin-top: -350px;
+    color:white;
+    font-weight: bold;
+    font-variant:small-caps; 
+    font-size: 40px;
+    padding: 50px 5px;
+    width: 100%;
+}
+
+.form-contact{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.form-group{
+    padding: 10px;
+}
+
+.form-group input{
+    width: 100%;
+    padding: 10px;
+}
+
+.form-group button{
+    background-color: orangered;
+    color: white;
+    padding: 10px 15px;
+    border: 1px solid orangered;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.form-group label{
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+.form-group>.name,.email,.sdt, .nd{
+    
+    padding-bottom: 15px;
+}
+

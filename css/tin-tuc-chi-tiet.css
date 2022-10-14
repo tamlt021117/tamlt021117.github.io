@@ -1,0 +1,64 @@
+.contact-info{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.banner-contact{
+    width: 100%;
+}
+
+.contact-title{
+    Position:absolute;
+    text-align: center;
+    margin-top: -350px;
+    color:white;
+    font-weight: bold;
+    font-variant:small-caps; 
+    font-size: 40px;
+    padding: 50px 5px;
+    width: 100%;
+}
+
+.frame{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 50px 0;
+    min-height: 1200px;
+}
+
+.left{
+    width: 78%;
+    float: left;
+    margin-right: 22px;
+}
+
+.right{
+    width: 20%;
+    float: left;
+}
+
+.left h1{
+    font-size: 34px;
+}
+
+.right img{
+    width: 100%;
+}
+
+.left .tg{
+    color: lightgrey;
+}
+
+.noidung{
+    margin-bottom: 15px;
+    text-align: justify;
+}
+
+.noidungcen{
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+
+

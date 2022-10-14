@@ -1,0 +1,39 @@
+.contact-info{
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.banner-contact{
+    width: 100%;
+}
+
+.contact-title{
+    Position:absolute;
+    text-align: center;
+    margin-top: -350px;
+    color:white;
+    font-weight: bold;
+    font-variant:small-caps; 
+    font-size: 40px;
+    padding: 50px 5px;
+    width: 100%;
+}
+
+.frame{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.noidung{
+    margin-bottom: 15px;
+}
+
+.noidung>ul{
+    margin-left: -20px;
+}
+
+.noidungcen{
+    text-align: center;
+}

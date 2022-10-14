@@ -1,0 +1,66 @@
+.frame{
+    width: 1200px;
+    margin: 0 auto;
+    min-height: 1200px;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+    color: orangered;
+}
+
+.nganh2{
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nganh2>div{
+    float: left;
+    width: 45%;
+}
+
+.nganh2>div>a{
+    text-decoration: none;
+}
+
+.nganh2 img{
+    width: 100%;
+}
+
+.nganhCNTT{
+    margin-right: 80px;
+}
+
+.nganh3{
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.nganh3>div{
+    float: left;
+    width: 30%;
+}
+
+.nganh3 img{
+    width: 100%;
+}
+
+.nganh3>div>a{
+    text-decoration: none;
+}
+
+.nganhNNA, .nganhNNN{
+    margin-right: 60px;
+}
+.video{
+    width: 1200px;
+}
+
+.video iframe{
+    width: 100%;
+    min-height: 550px;
+}
